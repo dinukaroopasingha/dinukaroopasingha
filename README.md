@@ -8,7 +8,7 @@ I'm a passionate front-end developer with 3+ years of crafting dynamic and capti
 
 ### What I Bring to the Table
 - 🌟 Strong proficiency in HTML, CSS, JS, and PHP, complemented by familiarity with React, Python, and C++.
-- 📚 Actively pursuing Redux and Node.js, fueling continuous growth through the UOM stack developer course.
+- 📚 Actively pursuing Redux and Node.js, AWS, fueling continuous growth through the UOM stack developer course.
 - 💡 Extensive hands-on experience with various code editors, development environments, databases, and operating systems.
 - 🎨 A knack for design with expertise in Adobe Suite for logo, portrait, and vector art designing.
 
