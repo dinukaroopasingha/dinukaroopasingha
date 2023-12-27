@@ -21,4 +21,16 @@ I'm a passionate front-end developer with 3+ years of crafting dynamic and capti
 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/dinuka-shameen-8b75611a1)
 👨‍💻 GitHub: [Explore my work](https://github.com/dinukaroopasingha)
 
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-Expert-purple?style=flat-square&logo=php)
+![React.js](https://img.shields.io/badge/React.js-Intermediate-blue?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-Intermediate-blueviolet?style=flat-square&logo=cplusplus)
+![Redux](https://img.shields.io/badge/Redux-Learning-yellowgreen?style=flat-square&logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=flat-square&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=flat-square&logo=amazon-aws)
+
+
 Looking forward to leveraging my skills and collaborating on exciting projects in the ever-evolving tech landscape!
